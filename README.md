@@ -1,1 +1,1 @@
-# wf-dhaka-jetbrains-booth-tasks
+In front of you there is some code that performs a standard algorithm or solution. The function names and comments should make the algorithm and solution clear. However, there’s a mistake in the code. Your goal is to find this mistake and correct it. You should only make a small correction, rather than rewrite the entire function from scratch. 
